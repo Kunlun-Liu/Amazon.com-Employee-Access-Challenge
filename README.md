@@ -1,2 +1,1 @@
-# a6
-assignment#6
+The details of this project is in my blog. The link is on the top of my jupyter notebook.
